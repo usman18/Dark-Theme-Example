@@ -25,6 +25,15 @@
                 android:text="This is just another text view"
                 />
 
+        <TextView
+                android:id="@+id/tvChangeTheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorAccent"
+                android:layout_margin="8dp"
+                android:text="Change Theme"
+                android:textSize="16sp"
+                />
 
 
 </LinearLayout>
